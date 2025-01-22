@@ -9,7 +9,7 @@
  jobs:
   build:
 
-    runs-on: [ubuntu-latest]
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
@@ -19,8 +19,8 @@
         java-version: '17'
         distribution: 'temurin'
         cache: maven
-     - name: Configure Maven settings
-       run: |
+    - name: Configure Maven settings
+      run: |
           mkdir -p ~/.m2
           echo "<settings>
                   <servers>
