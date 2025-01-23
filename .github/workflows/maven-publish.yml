@@ -26,8 +26,8 @@
                   <servers>
                     <server>
                       <id>hello-world-war</id>
-                      <username>${{secrets.ARTIFACTORY_USERNAME }}</username>
-                      <password>${{secrets.ARTIFACTORY_API_KEY }}</password>
+                      <username>admin</username>
+                      <password>cmVmdGtuOjAxOjE3NjkxODYxMjg6ajBQbVFFSHJGTld5UTFHNGhMR0FZeGdnWVZ5</password>
                     </server>
                   </servers>
                 </settings>" > ~/.m2/settings.xml
