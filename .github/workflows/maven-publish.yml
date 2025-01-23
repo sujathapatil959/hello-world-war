@@ -26,8 +26,8 @@
                   <servers>
                     <server>
                       <id>hello-world-war</id>
-                      <username>sujathapatil2903@gmail.com</username>
-                      <password>cmVmdGtuOjAxOjE3NjkxMzE1MDY6emV2cnZvMnl0ZXd1WTZtZ002c0htc3FPNDBL</password>
+                      <username>admin</username>
+                      <password>cmVmdGtuOjAxOjE3NjkxMzQ5ODY6U0dQZHVRdmJVbWxBeENTUXBEVWVoRmxyMHRZ</password>
                     </server>
                   </servers>
                 </settings>" > ~/.m2/settings.xml
